@@ -1,8 +1,8 @@
 ## Twitter Backend
 
-API created in Node.js with the Express framework.
+API in real time using Node.js, Express, MongoDB and SocketIO.
 
-API criada em Node.js com o framework Express.
+API em real time usando Node.js, Express, MongoDB e SocketIO.
 
 
 ## Instalação e execução
