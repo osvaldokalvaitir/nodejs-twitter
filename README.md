@@ -1,4 +1,4 @@
-## Twitter Backend
+# Twitter Backend
 
 API in real time using Node.js, Express, MongoDB and SocketIO.
 
