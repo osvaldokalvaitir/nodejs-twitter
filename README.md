@@ -8,7 +8,7 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
 
   - [Configurações Iniciais](#configurações-iniciais)
 
-  - [Instalação e execução](#instalação-e-execução)
+  - [Instalação e Execução](#instalação-e-execução)
 
   - [Bibliotecas do Node.js](#bibliotecas-do-nodejs)
 
@@ -20,7 +20,7 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings) e siga as Configurações Iniciais.
 
-### Instalação e execução
+### Instalação e Execução
 
 Depois de instalado o Node.js/Yarn, abra o prompt de comando e dentro da pasta do projeto execute os comandos abaixo.
 
