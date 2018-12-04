@@ -2,6 +2,14 @@
 
 API em real time usando Node.js, Express, MongoDB e SocketIO.
 
+## Resumo
+
+Esta API foi desenvolvida para disponibilizar os seguintes recursos:
+
+- Lista de todos os tweets
+- Adiciona novos tweets
+- Like nos tweets
+
 ## Índice
 
 - [Desenvolvimento](#desenvolvimento)
