@@ -21,7 +21,7 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
   - [Configurações Iniciais](#configurações-iniciais)
 
   - [Instalação do Projeto](#instalação-do-projeto)
-  
+
   - [Execução do Projeto](#execução-do-projeto)
 
   - [Bibliotecas](#bibliotecas)
@@ -30,9 +30,10 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
 
 ## Rotas
 
-- Lista de todos os tweets
-- Adiciona novos tweets
-- Like nos tweets
+- Tweets
+  - Lista de todos os tweets
+  - Adiciona novos tweets
+  - Like nos tweets
 
 ## Desenvolvimento
 
