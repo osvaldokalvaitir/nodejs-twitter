@@ -14,8 +14,6 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
 
 ## Índice
 
-- [Rotas](#rotas)
-
 - [Desenvolvimento](#desenvolvimento)
 
   - [Configurações Iniciais](#configurações-iniciais)
@@ -24,16 +22,13 @@ API em real time usando Node.js, Express, MongoDB e SocketIO.
 
   - [Execução do Projeto](#execução-do-projeto)
 
+- [Utilizados no Projeto](#utilizados-no-projeto)
+
   - [Bibliotecas](#bibliotecas)
+  
+  - [APIs](#apis)  
 
-  - [Outras Ferramentas](#outras-ferramentas)
-
-## Rotas
-
-- Tweets
-  - Lista de todos os tweets
-  - Adiciona novos tweets
-  - Like nos tweets
+  - [Ferramentas](#ferramentas)
 
 ## Desenvolvimento
 
@@ -49,6 +44,8 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga a Execução de Projeto.
 
+## Utilizados no Projeto
+
 ### Bibliotecas
 
 - [CORS](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/cors.md)
@@ -63,7 +60,19 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Socket.io](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio.md)
 
-### Outras Ferramentas
+### APIs
+
+- **Interna**
+
+  - **Rotas**
+
+    - Tweets
+
+      - Busca todos os tweets
+      - Adiciona novos tweets
+      - Like nos tweets
+
+### Ferramentas
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
