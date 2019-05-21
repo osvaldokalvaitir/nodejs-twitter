@@ -76,4 +76,4 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 - [Insomnia](https://github.com/osvaldokalvaitir/projects-settings/blob/master/api/insomnia.md)
 
-- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md) - Siga `Criar banco de dados` para criar um banco de dados e `Criar usuário` para criar um usuário.
+- [mLab](https://github.com/osvaldokalvaitir/projects-settings/blob/master/database/mongodb/mlab.md)
