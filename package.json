@@ -1,8 +1,8 @@
 {
-  "name": "twitter-backend",
+  "name": "node-twitter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/twitter-backend.git",
+  "repository": "https://github.com/osvaldokalvaitir/node-twitter.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {

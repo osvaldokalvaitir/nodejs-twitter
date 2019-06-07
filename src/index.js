@@ -1,28 +1,29 @@
-const express = require('express')
-const mongoose = require('mongoose')
-const cors = require('cors')
+const express = require("express");
+const mongoose = require("mongoose");
+const cors = require("cors");
 
-const app = express()
+const app = express();
 
-const server = require('http').Server(app)
-const io = require('socket.io')(server)
+const server = require("http").Server(app);
+const io = require("socket.io")(server);
 
 mongoose.connect(
-  'mongodb://usuario:usuario123@ds133187.mlab.com:33187/twitter-backend', {
+  "mongodb://usuario:usuario123@ds233167.mlab.com:33167/node-twitter",
+  {
     useNewUrlParser: true
   }
-)
+);
 
 app.use((req, res, next) => {
-  req.io = io
+  req.io = io;
 
-  return next()
-})
+  return next();
+});
 
-app.use(cors())
-app.use(express.json())
-app.use(require('./routes'))
+app.use(cors());
+app.use(express.json());
+app.use(require("./routes"));
 
 server.listen(3000, () => {
-  console.log('Server started on port 3000')
-})
+  console.log("Server started on port 3000");
+});
