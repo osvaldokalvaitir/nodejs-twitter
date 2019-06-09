@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-API em real time usando Node.js, Express, MongoDB e SocketIO.
+Aplicação Twitter usando Node.js, Express, Socket.io, Mongoose e mLab.
 
 ## Índice
 
