@@ -6,8 +6,9 @@
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon src/index.js"
-  },
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },      
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
