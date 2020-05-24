@@ -1,8 +1,8 @@
 {
-  "name": "node-twitter",
+  "name": "nodejs-twitter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/osvaldokalvaitir/node-twitter.git",
+  "repository": "https://github.com/osvaldokalvaitir/nodejs-twitter.git",
   "author": "osvaldokalvaitir <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
