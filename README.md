@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :speech_balloon: Twitter Application using Node.js, Express, Socket.io, Mongoose and mLab
+  :speech_balloon: Twitter Application using Node.js, Express, Socket.io, Mongoose, Insomnia and mLab
 </p>
 
 <p align="center">
