@@ -13,7 +13,7 @@
     "cors": "^2.8.5",
     "express": "^4.20.0",
     "mongoose": "^6.13.10",
-    "socket.io": "^2.5.0"
+    "socket.io": "^2.5.1"
   },
   "devDependencies": {
     "eslint": "^5.15.1",
